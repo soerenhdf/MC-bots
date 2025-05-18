@@ -1,0 +1,15 @@
+{
+  "name": "minecraft-multi-bot",
+  "version": "1.0.0",
+  "description": "Mineflayer Bot, der mehrere Bots mit AutoAuth startet",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "DeinName",
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^4.6.1",
+    "mineflayer-auto-auth": "^1.2.0"
+  }
+}
